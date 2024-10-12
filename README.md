@@ -7,7 +7,7 @@ Preview of Jesper Olsson's and my attempt to calculate the expected value from S
 
 
 
-![SVS1](./pic1png)
-![SVS2](./pic2png)
+![SVS1](./pic1.png)
+![SVS2](./pic2.png)
 
-![Authors](./Authors.png)
+![Authors](./authors.png)
