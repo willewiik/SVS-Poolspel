@@ -8,5 +8,5 @@ Svenska Spel "Topptipset"
 ![SVS2](./pic2.png)
 
 
-The authors *Jesper Olsson*, *William Wiik* & *The poet*
+The authors: *Jesper Olsson*, *William Wiik* & *The poet*
 ![Authors](./authors.png)
