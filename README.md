@@ -3,7 +3,7 @@ Preview of Jesper Olsson's and my attempt to calculate the expected value from S
 We worked in R Shiny to produce our program.
 
 
-Svenska Spel "Topptipset"
+Svenska Spel "Topptipset" in R Shiny
 ![SVS1](./pic1.png)
 ![SVS2](./pic2.png)
 
